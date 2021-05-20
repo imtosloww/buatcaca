@@ -1,0 +1,61 @@
+#duaa
+{
+    background-color:#F0F8FF;
+}
+
+#formm
+{
+    align-content: center;
+    background-color: #F0F8FF;
+    text-align: center;
+}
+
+.carousel-item img
+{
+    width: 1820px;
+    height: 705px; 
+}
+
+.carousel-inner
+{
+    margin-bottom: 1cm;
+}
+
+#tigaa
+{
+    background-color: #fffff0
+}
+
+#butonn
+{
+    margin-top: 1cm;
+    
+}
+
+.modal-body
+{
+    text-align: justify;
+}
+
+#butonn
+{
+    width:100%;
+    height:100%;
+    position:absolute;
+    vertical-align:middle;
+}
+
+.centered-thing {
+    position: absolute;
+    margin: auto;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+
+.pagination
+{
+    margin-bottom: 4cm;
+}

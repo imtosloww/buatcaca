@@ -1,2 +1,0 @@
-# buatcaca
-kado
